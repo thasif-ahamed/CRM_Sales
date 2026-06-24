@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Thasif",
+      "age": 23,
+      "course": "QA Automation"
+    },
+    {
+      "id": 2,
+      "name": "Aisha",
+      "age": 22,
+      "course": "Computer Science"
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "age": 24,
+      "course": "Data Analytics"
+    }
+  ]
+}

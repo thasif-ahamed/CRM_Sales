@@ -1,0 +1,93 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Thasif",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Postman",
+        "Selenium",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "department": "Developer",
+      "salary": 70000,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Rahul CSE updated",
+      "department": "Developer",
+      "salary": 70000,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "id": "3"
+    },
+    {
+      "name": "Breez",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Cucumber",
+        "Selenium",
+        "API Testing"
+      ],
+      "id": "gxa94B8emsU"
+    },
+    {
+      "name": "Breez",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Cucumber",
+        "Selenium",
+        "API Testing"
+      ],
+      "id": "uxhmH7eaZzM"
+    },
+    {
+      "name": "Bala",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Cucumber",
+        "Selenium",
+        "API Testing"
+      ],
+      "id": "gQ-vD8JNz4Q"
+    },
+    {
+      "name": "Bala",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Cucumber",
+        "Selenium",
+        "API Testing"
+      ],
+      "id": "wusDhAi1f9Q"
+    },
+    {
+      "name": "Bala",
+      "department": "QA",
+      "salary": 45000,
+      "skills": [
+        "Cucumber",
+        "Selenium",
+        "API Testing"
+      ],
+      "id": "LaQ6tw7ZL7g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

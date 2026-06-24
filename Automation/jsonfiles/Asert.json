@@ -1,0 +1,131 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Thasif Ahamed J",
+      "location": "India",
+      "courses": [
+        "Java",
+        "C++"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Rahul",
+      "location": "India",
+      "courses": [
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Aisha",
+      "location": "India",
+      "courses": [
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Vikram",
+      "location": "India",
+      "courses": [
+        "C#",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Priya",
+      "location": "India",
+      "courses": [
+        "API Testing",
+        "Postman"
+      ]
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "xZSjqQaX4uM"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "DaU72fzGtWU"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "usiUiwQKd5E"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "2eZfnUs5Yfc"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "x1JJ6-VThcQ"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "l-7tSkK-78E"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "cWN91gkuPrg"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "AocmlXEJoW4"
+    },
+    {
+      "name": "Breez",
+      "location": "France",
+      "courses": [
+        "Java",
+        "C++"
+      ],
+      "id": "-AYHgLuXGD4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
