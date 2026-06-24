@@ -1,5 +1,0 @@
-C:\Program Files\Java\jdk-26\bin --- java
-
-C:\Users\Atmin\eclipse\java-2026-03 --- eclips
-
- C:\Users\Atmin\eclipse-workspace
